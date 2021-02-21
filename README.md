@@ -46,4 +46,4 @@ Sensors:
   4) Bump - Agent walked into a wall
   5) Scream - Wumpus is killed (which can be perceived anywhere in the cave)
  
-For a more thorough explanation and overview, please refer to the <a href="#" target="_blank">Wumpus World Student Manual</a>.
+For a more thorough explanation and overview, please refer to the <a href="WumpusWorldStudentManual.pdf" target="_blank">Wumpus World Student Manual</a>.
