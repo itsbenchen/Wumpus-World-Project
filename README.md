@@ -3,7 +3,7 @@
 
 Note: Code written by me is in the MyAI.py file. All the other files are provided by the course to standardize testing conditions when applicable. All code was written in one file, as instructed by my course professor.
 
-Also to note: Code was written and tested on Python 3.5.2. The AI scored in the top 10% of the class in the final tournament near the end of the course. 
+*Also to note*: Code was written and tested on Python 3.5.2. The AI scored in the top 10% of the class in the final tournament near the end of the course. 
 
 ### Purpose of the Project
 This was project given by Professor Richard H. Lathrop (UC Irvine Professor) to do that spanned through the entire academic quarter. The course was an Introduction to Articial Intelligence that explored concepts of AI. The task here is to utilize those concepts to develop an AI to interact with the unknown environment (to the AI, of course). One notable feature that made this AI robust was the way it adapted to the knowledge gained from every interation after an action. From this knowledge, the AI is then able to make smart decisions on how to traverse through the cave to acheive the best performance metric it can possibly get. 
