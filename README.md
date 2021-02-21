@@ -22,7 +22,7 @@ Performance Mesaure:
   Note: The game ends either when the agent dies, when the agent climbs out of the cave, or when the agent's score goes below -1000.
   
 Environment:
-  The environment is classified as partially observable, determininstic, sequuential, static, discrete, and single agent.
+  The environment is classified as partially observable, determininstic, sequential, static, discrete, and single-agent.
   1. Cave will be an N by M grid of rooms, where N <= 3 and M <= 7.
   2. Agent starts at the bottom left square (1, 1) and faces right.
   3. Locations of gold and Wumpus are chosen randomly with a uniform distribution, from squares other than the start square.
